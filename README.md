@@ -22,4 +22,4 @@
 
 * chatgpt实时询问
 
-  ![record](.\batch_image\record.gif)
+  ![record.gif](.\batch_image\record.gif)
