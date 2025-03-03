@@ -22,4 +22,4 @@
 
 * chatgpt实时询问
 
-  ![record.gif](.\batch_image\record.gif)
+  ![record.gif](https://github.com/wanghai6733/Image2LLM/blob/main/batch_image/record.gif)
