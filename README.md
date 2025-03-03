@@ -1,5 +1,5 @@
 # Image2LLM
-截取图片并识别出图片的文字，最后将内容发送给LLM，获得解析。 (在release中可以下载exe版直接用)
+截取图片并识别出图片的文字，最后将内容发送给LLM，获得答案解析。 (在release中可以下载exe版直接用)
 
 # 依赖
 * pip install pyQt5
